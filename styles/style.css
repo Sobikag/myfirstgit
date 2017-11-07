@@ -1,3 +1,16 @@
 .color{
     background-color: grey
 };
+fieldset.color{
+    background-color:grey;
+}
+
+fieldset.login{
+    background-color:cornflowerblue;
+   
+   float: left;
+   margin-left: 400px;
+   margin-top: 200px;  
+ 
+  border-color: black;
+}
